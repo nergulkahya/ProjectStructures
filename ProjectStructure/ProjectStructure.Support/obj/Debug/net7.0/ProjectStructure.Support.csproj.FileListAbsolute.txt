@@ -1,0 +1,12 @@
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\bin\Debug\net7.0\ProjectStructure.Support.deps.json
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\bin\Debug\net7.0\ProjectStructure.Support.dll
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\bin\Debug\net7.0\ProjectStructure.Support.pdb
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.csproj.AssemblyReference.cache
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.AssemblyInfoInputs.cache
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.AssemblyInfo.cs
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.csproj.CoreCompileInputs.cache
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.dll
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\refint\ProjectStructure.Support.dll
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ProjectStructure.Support.pdb
+C:\Users\nergul.kahya\Desktop\ProjectStructures\ProjectStructure\ProjectStructure.Support\obj\Debug\net7.0\ref\ProjectStructure.Support.dll
